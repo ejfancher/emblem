@@ -1,0 +1,19 @@
+{
+  "name": "eSudoku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "build": "webpack",
+    "start-dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Evan Fancher",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
