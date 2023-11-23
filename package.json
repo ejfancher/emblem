@@ -5,12 +5,12 @@
   "main": "server.js",
   "scripts": {
     "build": "webpack",
-    "start-dev": "nodemon server.js",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "author": "Evan Fancher",
   "license": "MIT",
   "dependencies": {
+    "nodemon": "^1.18.9",
     "express": "^4.16.4"
   },
   "engines": {
