@@ -1,5 +1,0 @@
-in svg 1.1 standard the following is found
-
-7.7: the viewBox provides maximal width height and such scales down to the viewport
-7.1,7.2: establishes that for standalone files the width and height attributes provide viewports width and height unless there is implicit CSS which specifies the height
-5.5 confirms that our file is standalone SVG file
